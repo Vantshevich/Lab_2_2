@@ -1,0 +1,2 @@
+Input data: 22 
+Output data: 
